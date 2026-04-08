@@ -2,7 +2,7 @@
 
 Project Overview
 
-This project focuses on analyzing ecommerce sales data to uncover key business insights such as revenue trends, customer behavior, and product performance. The analysis is performed using Python (Pandas, Matplotlib/Seaborn) and Power BI for interactive dashboards.
+This project analyzes e-commerce sales data to uncover key drivers of revenue, profitability, and customer purchasing behavior. The goal is to help businesses make data-driven decisions around pricing, discounts, and sales strategy.
 
 Objectives
 
@@ -44,12 +44,31 @@ KPI Cards (Sales, Profit, Orders, Growth %, AOV)
 Interactive Filters (Year, Region, Category, Subcategory)
 Drill-through Pages for customer details and country details
 Tooltips for detailed insights
+
 Visuals:
 Bar Charts
 Line Charts
 Donut Charts
 Map Visualization
 Funnel Charts
+
+Project Structure
+
+E-commerce-Sales
+│
+├── data/              # Dataset
+├── notebooks/         # Python analysis
+├── dashboard/         # Power BI / Excel file
+├── images/            # Dashboard screenshots
+└── README.md          # Project documentation
+
+Key Skills Demonstrated
+
+1.Data Cleaning & Preprocessing
+2.Exploratory Data Analysis (EDA)
+3.Data Visualization & Dashboarding
+4.Business Insight Generation
+5.Analytical Thinking
 
 Author
 Rachna Chauhan
